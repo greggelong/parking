@@ -39,11 +39,9 @@ Additionally, a digital component will be integrated via a QR code that links to
 Through "Urban Palimpsest," I, alongside The Workers of the Manual for Everyday Life, seek to engage the Art Parking audience in a dialogue about the beauty and transformative potential of urban spaces. This interactive installation not only reflects on the nature of change in city landscapes but also empowers the public to be co-creators in the artistic process, thereby democratizing art and its creation.
 
 ---
-Sure, here's the translated version in Chinese:
 
 ### 艺术家提案：《都市遗迹》
 
-**艺术家姓名：** [您的全名]  
 **艺术家团体：** 《日常生活手册》工作者  
 **展览标题：** 都市遗迹  
 **媒介：** 混合媒介装置  
